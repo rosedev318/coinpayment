@@ -1,4 +1,5 @@
-﻿namespace BlockChainDemo
+﻿
+namespace BlockChainDemo
 {
     public class Transaction
     {
